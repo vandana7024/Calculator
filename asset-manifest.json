@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vandana7024/Calculator/static/css/main.1aee82ad.chunk.css",
+    "main.js": "/vandana7024/Calculator/static/js/main.8eccad2b.chunk.js",
+    "main.js.map": "/vandana7024/Calculator/static/js/main.8eccad2b.chunk.js.map",
+    "runtime-main.js": "/vandana7024/Calculator/static/js/runtime-main.28c49308.js",
+    "runtime-main.js.map": "/vandana7024/Calculator/static/js/runtime-main.28c49308.js.map",
+    "static/js/2.fab8187b.chunk.js": "/vandana7024/Calculator/static/js/2.fab8187b.chunk.js",
+    "static/js/2.fab8187b.chunk.js.map": "/vandana7024/Calculator/static/js/2.fab8187b.chunk.js.map",
+    "static/js/3.ba41e9a3.chunk.js": "/vandana7024/Calculator/static/js/3.ba41e9a3.chunk.js",
+    "static/js/3.ba41e9a3.chunk.js.map": "/vandana7024/Calculator/static/js/3.ba41e9a3.chunk.js.map",
+    "index.html": "/vandana7024/Calculator/index.html",
+    "static/css/main.1aee82ad.chunk.css.map": "/vandana7024/Calculator/static/css/main.1aee82ad.chunk.css.map",
+    "static/js/2.fab8187b.chunk.js.LICENSE.txt": "/vandana7024/Calculator/static/js/2.fab8187b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28c49308.js",
+    "static/js/2.fab8187b.chunk.js",
+    "static/css/main.1aee82ad.chunk.css",
+    "static/js/main.8eccad2b.chunk.js"
+  ]
+}
